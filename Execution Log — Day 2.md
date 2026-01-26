@@ -1,6 +1,6 @@
-Day 1 : created the repo "AI-core"
+Day 1 Jan 7 2026 : created the repo "AI-core"
 
-Day 2 execution log :
+Day 2 execution log | Jan 25 2026:
 
 ## 3️⃣ AI-Core Pillar
 
@@ -25,4 +25,5 @@ Day 2 execution log :
 
 **Ignore:**  
 - Full AI training, cloud-only frameworks, deep math research  
+
 
